@@ -97,8 +97,8 @@ export PATH_FINDER_APP_URL="http://get.cocoatech.com/PF7.zip"
 export PAW_APP_NAME=Paw.app
 export PAW_APP_URL="https://paw.cloud/download"
 
-export PG_ADMIN_APP_NAME=pgAdmin3.app
-export PG_ADMIN_APP_URL="https://ftp.postgresql.org/pub/pgadmin3/release/v1.22.1/osx/pgadmin3-1.22.1.dmg"
+export PG_ADMIN_APP_NAME="pgAdmin 4.app"
+export PG_ADMIN_APP_URL="https://ftp.postgresql.org/pub/pgadmin3/pgadmin4/v1.0/macos/pgadmin4-1.0.dmg"
 
 export PSEQUEL_APP_NAME=PSequel.app
 export PSEQUEL_APP_URL="http://www.psequel.com/download?version=latest"

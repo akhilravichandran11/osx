@@ -74,7 +74,7 @@ install_zip_app "$PATH_FINDER_APP_URL" "$PATH_FINDER_APP_NAME"
 install_zip_app "$PAW_APP_URL" "$PAW_APP_NAME"
 
 # PG Admin
-install_dmg_app "$PG_ADMIN_APP_URL" "pgAdmin3" "$PG_ADMIN_APP_NAME"
+install_dmg_app "$PG_ADMIN_APP_URL" "pgAdmin 4" "$PG_ADMIN_APP_NAME"
 
 # PSequel
 install_zip_app "$PSEQUEL_APP_URL" "$PSEQUEL_APP_NAME"
